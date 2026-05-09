@@ -49,3 +49,8 @@ A **modem** (Modulator–Demodulator) plays a vital role here. It acts as a brid
 | 3 | What is the largest Wide Area Network (WAN) that connects millions of Local Area Networks (LANs) globally? | Internet |
 | 4 | What is the acronym for a network that connects devices over a short distance, such as within a home, school, or small office building? | LAN |
 | 5 | In networking, what term describes the communication pathways (wired or wireless) that connect nodes? | Links |
+
+
+---
+ 
+*Module: Network Foundations · Platform: Hack The Box*
